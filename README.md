@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 I’m Sai Nischint Mohanty, a Computer Engineering student and Full-Stack Developer focused on building scalable web and AI-enabled applications.<br><br>I work across React, Node.js, and TypeScript, developing end-to-end systems including backend APIs, authentication workflows, and intelligent AI-driven applications deployed in production environments.<br><br>Interested in contributing to engineering teams where I can build reliable software, solve real-world problems, and continue growing through hands-on development.<br>
+👋 I’m Sai Nischint Mohanty, a Computer Engineering student and Full-Stack Developer focused on building scalable web and AI-enabled applications.<br><br>I work across React, Next.js,Node.js, and TypeScript, developing end-to-end systems including backend APIs, authentication workflows, and intelligent AI-driven applications deployed in production environments.<br><br>Interested in contributing to engineering teams where I can build reliable software, solve real-world problems, and continue growing through hands-on development.<br>
 
 
 ## 🌐 Socials:
